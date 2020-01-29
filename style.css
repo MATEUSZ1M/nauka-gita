@@ -4,3 +4,8 @@ body{
     font-size: 18px;
     letter-spacing: 3px;
 }
+
+.container{
+    width: 40%;
+    margin: 0 auto;
+}
