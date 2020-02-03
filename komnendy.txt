@@ -1,0 +1,21 @@
+
+Html validator:
+
+Install:
+npm install -g html-validate
+
+Usage
+html-validate FILENAME..
+#############################
+
+Autoprefixer CLI 
+
+Install:
+npm install --global autoprefixer-cli
+
+Usage:
+autoprefixer-cli -o main.prefixed.css main.css
+
+See full documentation by:
+autoprefixer-cli -h
+#############################
