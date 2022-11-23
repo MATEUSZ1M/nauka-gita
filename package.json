@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/MATEUSZ1M/nauka-gita#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.27.10"
   }
 }
